@@ -1,4 +1,5 @@
 <h1 align="center">HEXA MUSIC DISCORD BOT</h1>
+<h3 align="center">Listen to a music bot with style! Feature rich with high quality music from YouTube, Spotify, Deezer, SoundCloud and much more!</h3>
 
 > Hexa Music is a project developed by [Secret Development](https://www.secretdev.tech) to entertain users on a server. We provide premium music for you and of course it can be used by everyone and it's free of course. With perfect music quality, we hope that users can enjoy the project we are currently developing.
 >
