@@ -53,6 +53,7 @@
 
 - You can see the latest updates from the Hexa bot [here](https://github.com/secretDevelopment17/hexabot-music/releases/). You can also see the pre-release there, but we don't include the pre-release version in the bot because we only give the Hexa bot a stable version because we don't want any errors or bugs in the pre-release version
 - You can report bugs [here](https://github.com/secretDevelopment17/hexabot-music/issues/new/choose). After you report, we will investigate your report first and then we will process your report
+- You can also send suggestions and feedback [here](https://github.com/secretDevelopment17/hexabot-music/issues/new/choose). We will consider your suggestions and feedback and will be verified first before we provide your input to the Hexa bot
 - We will present a premium feature to improve the quality of Hexa for users who want more features than Hexa. However, this feature will be coming soon
 
 <h2>Support and Donations</h2>
