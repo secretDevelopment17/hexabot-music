@@ -59,4 +59,7 @@
 
 - If you need help or questions you can join our Discord community by [clicking here](https://dsc.gg/secretdev)
 - Thank you for your interest in using the Hexa Music Discord Bot. If you want to become a premium user, you can contact the developer:
-  1. Discord : DezkrazeeeR#6659
+  - Discord : DezkrazeeeR#6659
+- Or do you want to make a donation so that Hexa continues to stand as a Discord Bot Music with good features? You can donate via the link below
+
+<p><a href="https://trakteer.id/dezkrazzer"/>Trakteer</a> | <a href="https://karyakarsa.com/secretdevelopment"/>Karyakarsa</a> | <a href="https://saweria.co/Dezkrazzer"/>Saweria</a></p>
