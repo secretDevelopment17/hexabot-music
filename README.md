@@ -63,3 +63,5 @@
 - Or do you want to make a donation so that Hexa continues to stand as a Discord Bot Music with good features? You can donate via the link below
 
 <p><a href="https://trakteer.id/dezkrazzer"/>Trakteer</a> | <a href="https://karyakarsa.com/secretdevelopment"/>Karyakarsa</a> | <a href="https://saweria.co/Dezkrazzer"/>Saweria</a></p>
+
+<h10>© Secret Development 2021 - Hexa Music#3055</h10>
