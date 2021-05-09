@@ -1,11 +1,14 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Report a bug with Hexa. Make sure your issue is a bug before you report it
 title: ''
 labels: 'Bug: Unconfirmed'
 assignees: ''
 
 ---
+
+**Your Discord tag**
+E.g. DezkrazeeeR#0001
 
 **Describe the bug**
 A clear and concise description of what the bug is.
