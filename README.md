@@ -47,4 +47,6 @@
 - It is forbidden to play music that contains NSFW elements, unless you set the channel setup as an NSFW channel
 - Remember, this provision is only temporary and can be changed at any time. Conditions can also be made by the staff of each server
 
-<h2>Update & Premium Feature</h2>
+<h2>Update, Bug, and Premium Feature</h2>
+
+- You can see the latest updates from the Hexa bot [here](https://github.com/secretDevelopment17/hexabot-music/releases/). You can also see the pre-release there, but we don't include the pre-release version in the bot because we only give the Hexa bot a stable version because we don't want any errors or bugs in the pre-release version
